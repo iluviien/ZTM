@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ZTM/static/css/main.f18f92fa.css",
+    "main.js": "/ZTM/static/js/main.15d16301.js",
+    "static/js/496.948a8646.chunk.js": "/ZTM/static/js/496.948a8646.chunk.js",
+    "static/media/SEGA.TTF": "/ZTM/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/ZTM/index.html",
+    "main.f18f92fa.css.map": "/ZTM/static/css/main.f18f92fa.css.map",
+    "main.15d16301.js.map": "/ZTM/static/js/main.15d16301.js.map",
+    "496.948a8646.chunk.js.map": "/ZTM/static/js/496.948a8646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18f92fa.css",
+    "static/js/main.15d16301.js"
+  ]
+}
